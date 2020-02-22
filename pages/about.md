@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 工控改变世界
+keywords: 灰果果 hui guoguo
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
-
-仰慕「优雅编码的艺术」。
+我灰果果，工控人。
 
 坚信熟能生巧，努力改变人生。
 
