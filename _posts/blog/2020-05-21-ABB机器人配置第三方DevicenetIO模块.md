@@ -6,7 +6,7 @@
   - 已添加软件选项 709-1 DeviceNet Master/Slave。
   ![无](/images/blog/已安装选项.bmp)
 - 第三方DeviceNet IO模块侧：
-  - 连接好DeviceNet 总线（标准为5芯线 V- CANL CANH Shield CANH V+），选择5芯接口的第三方模块，由ABB控制柜提供总线电源防止干扰。注意前端主站末端从站接上120欧姆电阻。
+  - 连接好DeviceNet 总线（标准为5芯线 V- CANL Shield CANH V+），选择5芯接口的第三方模块，由ABB控制柜提供总线电源防止干扰。注意前端主站末端从站接上120欧姆电阻。
   ![无](/images/blog/IRC5 DeviceNet硬件接口_1.bmp)
   ![无](/images/blog/IRC5 DeviceNet硬件接口_2.bmp)
   - 设置DeviceNet从站模块地址，一般为两个旋钮（一个\*10，一个\*1）。
