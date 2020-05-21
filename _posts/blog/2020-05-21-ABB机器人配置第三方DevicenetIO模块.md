@@ -2,6 +2,7 @@
 
 - 机器人侧软硬件配置：
   - IRC5安装有 DeviceNet PCI Express board, DSQC1006（DeviceNet总线现已非标准配置，新控制器目前标配Ethernet IO DSQC1030）。
+  ![无](/image/blog/IRC 控制柜网络接口.bmp)
   - 已添加软件选项 709-1 DeviceNet Master/Slave。
 - 第三方DeviceNet IO模块侧：
   - 连接好DeviceNet 总线（标准为5芯线 V- CANL CANH Shield CANH V+），选择5芯接口的第三方模块，由ABB控制柜提供总线电源防止干扰。注意前端主站末端
