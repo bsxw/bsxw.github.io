@@ -1,3 +1,10 @@
+---
+layout: post
+title: ABB机器人配置第三方DeviceNet IO模块
+categories: ABB机器人
+description: 啦啦啦
+keywords: ABB机器人，DeviceNet
+---
 # ABB机器人控制柜IRC5配置第三方DeviceNet IO从站
 
 - 机器人侧软硬件配置：
