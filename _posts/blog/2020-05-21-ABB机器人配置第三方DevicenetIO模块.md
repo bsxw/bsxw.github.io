@@ -22,5 +22,6 @@
       - Connection Type                    （EDS文件中对应参数）
       - Connection Input Size             （实际输入模块字节数）
       - Connection Output Size            （实际输出模块字节数）
-    2. 对于缺失EDS文件的第三方模块，设置好模块地址后通过新建DeviceNet Generic Device 模板类型设备重启后自动识别模块参数，根据重启弹出的日志填写参数。
+    2. 对于缺失EDS文件的第三方模块，设置好模块地址后通过新建DeviceNet Generic Device 模板类型设备重启后自动识别模块参数，根据重启弹出的日志     填写参数。
+    ![无](/images/blog/新建可自动识别的DeviceNet IO设备.bmp)
     
