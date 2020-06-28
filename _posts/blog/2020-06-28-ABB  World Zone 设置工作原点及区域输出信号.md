@@ -1,3 +1,10 @@
+---
+layout: post
+title: ABB机器人World Zone配置
+categories: ABB
+description: 啦啦啦
+keywords: ABB，World Zone，安全区域
+---
 - 前提：已安装 608-1 World Zones选项。
 - 相关数据类型
   wztemporary
