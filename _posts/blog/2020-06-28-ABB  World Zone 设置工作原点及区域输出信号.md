@@ -28,6 +28,7 @@ keywords: ABB，World Zone，安全区域
   - 一个球体
   - 针对机器人轴和/或外轴的一个关节角区
 - WZBoxDef - 定义一个箱形全局区域
+   
   - WZBoxDef [\Inside] | [\Outside] Shape LowPoint HighPoint
   - WZBoxDef(World Zone Box Definition)用于定义拥有直线箱形状，且各侧均与世界坐标系各轴平行的全局区域。
   - 定义坐标与**世界坐标系**各轴平行，且由对角pos1和pos2所定义的直线箱（ LowPoint、HighPoint为pos数据类型，可使用robtarget的trans变元）。
