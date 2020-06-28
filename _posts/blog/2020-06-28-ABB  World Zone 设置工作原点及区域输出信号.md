@@ -5,6 +5,8 @@ categories: ABB
 description: 啦啦啦
 keywords: ABB，World Zone，安全区域
 ---
+# ABB World Zone 安全区域设置
+
 - 前提：已安装 608-1 World Zones选项。
 - 相关数据类型
   wztemporary
