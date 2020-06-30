@@ -1,10 +1,10 @@
-- name: 码志
-  url: http://mazhuang.org
-  src: life
+- name: 灰果果
+  url: www.ondday.com
+  src: 生活点滴
 
-- name: Connie 酱
-  url: https://connie99.github.io
-  src: life
+- name: Markdown基本语法
+  url: https://www.jianshu.com/p/191d1e21f7ed
+  src: 简书
 
 - name: 只宁静不致远
   url: http://zxning.github.io
