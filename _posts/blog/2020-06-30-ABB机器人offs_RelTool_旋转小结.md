@@ -1,4 +1,12 @@
-  # ABB机器人offs_RelTool
+---
+layout: post
+title: ABB机器人IO快捷配置
+categories: ABB
+description: 啦啦啦
+keywords: ABB，offs，RelTool
+---
+
+# ABB机器人offs_RelTool
   
 - 偏移函数offs运动参考方向的是所选工件坐标系方向(不可旋转)。
 ```
@@ -49,3 +57,4 @@
     沿工具的x方向，将机械臂移动至距p1达100 mm的一处位置。
     将工具围绕其z轴旋转25°。
 ```
+- 手动重定位操作与工件坐标系无关，参考方向为工具坐标系方向。
