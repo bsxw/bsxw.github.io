@@ -1,19 +1,15 @@
-- name: Software Engineer Keywords
+- name: 电气工程师
   keywords:
-      - Java
-      - C++
+      - 非标
+      - 自动化
+      - 机器人
+      - 触摸屏
+      - 伺服
+      - 变频器
+      - PLC
+
+- name: IT
+  keywords:
       - Python
-      - Design Patterns
+      - C++
 
-- name: Mobile Developer Keywords
-  keywords:
-      - Android
-      - Reverse Engineering
-
-- name: Windows Developer Keywords
-  keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
