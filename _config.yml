@@ -104,8 +104,8 @@ gitment:
 gitalk:
     owner: huiguoguo
     repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: cdb645f5467d05bcf8ef
+    clientSecret: 31efb3cb9076711ce8fe037b8ff417dacb48cb0b
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
