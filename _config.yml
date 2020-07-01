@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: mzlogin/bsxw.github.io
 
 # ---------------- #
 #      Comments    #
@@ -95,11 +95,11 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: huiguoguo
-    repo: blog-comments
+    owner: bsxw
+    repo: bsxw.github.io
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: cdb645f5467d05bcf8ef
+        client_secret: 0734c9ac3b391e7188d952c3694e3130911362c5
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: bsxw
