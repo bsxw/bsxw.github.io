@@ -104,8 +104,8 @@ gitment:
 gitalk:
     owner: bsxw
     repo: bsxw.github.io
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: cdb645f5467d05bcf8ef
+    clientSecret: 0734c9ac3b391e7188d952c3694e3130911362c5
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
