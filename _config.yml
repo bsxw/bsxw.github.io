@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/bsxw.github.io
+repository: bsxwlogin/bsxw.github.io
 
 # ---------------- #
 #      Comments    #
