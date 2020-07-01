@@ -21,4 +21,8 @@
 - name: Jekyll官网
   url: https://www.jekyll.com.cn/
   src: www
+  
+- name: Jekyll + Github Pages 博客搭建入门
+  url: https://www.jianshu.com/p/9f198d5779e6
+  src: www
 
