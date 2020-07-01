@@ -22,7 +22,10 @@
   url: https://www.jekyll.com.cn/
   src: www
   
-- name: Jekyll + Github Pages 博客搭建入门
+- name: jekyll + Github Pages搭建个人博客_1
   url: https://www.jianshu.com/p/9f198d5779e6
   src: www
 
+- name: jekyll + Github Pages搭建个人博客_2
+  url: https://blog.csdn.net/u013553529/article/details/54588010
+  src: www
