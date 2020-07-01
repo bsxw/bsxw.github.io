@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ABB机器人IO快捷配置
+title: ABB机器人offs_RelTool
 categories: ABB
 description: 啦啦啦
 keywords: ABB，offs，RelTool
