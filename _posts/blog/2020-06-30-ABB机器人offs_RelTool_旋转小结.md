@@ -5,7 +5,6 @@ categories: ABB
 description: 啦啦啦
 keywords: ABB，offs，RelTool
 ---
-
 # ABB机器人offs_RelTool
   
 - 偏移函数offs运动参考方向的是所选工件坐标系方向(不可旋转)。
