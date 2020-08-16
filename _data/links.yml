@@ -13,7 +13,15 @@
 - name: 水库论坛（房产投资）
   url: https://www.sklt.com.cn/
   src: life
-
+  
+- name: 贝壳（房产）
+  url: https://dg.ke.com/ershoufang/
+  src: life
+ 
+- name: 水木社区（二手房）
+  url: https://exp.newsmth.net/section/5b634fdc9ecddf6042561c959176c077
+  src: life
+  
 - name: Markdown语法图文全面详解
   url: https://www.jianshu.com/p/c0a2897ad4eb
   src: www
