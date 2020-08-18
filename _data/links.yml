@@ -17,7 +17,10 @@
 - name: 水库论坛（房产投资）
   url: https://www.sklt.com.cn/
   src: life
-  
+ 
+- name: 安居客（房产）
+  url: https://dg.anjuke.com/
+  src: life
 - name: 贝壳（房产）
   url: https://dg.ke.com/ershoufang/
   src: life
