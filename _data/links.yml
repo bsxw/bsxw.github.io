@@ -33,8 +33,8 @@
   url: https://exp.newsmth.net/section/5b634fdc9ecddf6042561c959176c077
   src: life
   
- - name: 东莞自然资源局（土地信息）
-  url: http://land.dg.gov.cn/
+ - name: 东莞自然资源局（土地出让信息）
+  url: http://land.dg.gov.cn/gkmlpt/index
   src: life
   
 - name: Markdown语法图文全面详解
