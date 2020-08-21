@@ -13,7 +13,7 @@
 - name: 东莞住房与城乡建设局（商品房现售备案查询）
   url: http://zjj.dg.gov.cn/zjj/jsgc/spfxs/
   src: life
-
+  
 - name: 水库论坛（房产投资）
   url: https://www.sklt.com.cn/
   src: life
@@ -35,6 +35,10 @@
   
  - name: 东莞自然资源局（土地出让信息）
   url: http://land.dg.gov.cn/gkmlpt/index
+  src: life
+  
+- name: 东莞市公共资源交易网（地块出让查询）
+  url: https://list.dgzb.com.cn/dggt/HomePage/list
   src: life
   
 - name: Markdown语法图文全面详解
