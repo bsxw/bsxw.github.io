@@ -5,14 +5,6 @@
 - name: Markdown基本语法
   url: https://www.jianshu.com/p/191d1e21f7ed
   src: life
-
-- name: 东莞不动产登记中心
-  url: http://dgfc.dg.gov.cn/
-  src: life
-  
-- name: 东莞住房与城乡建设局（商品房现售备案查询）
-  url: http://zjj.dg.gov.cn/zjj/jsgc/spfxs/
-  src: life
   
 - name: 水库论坛（房产投资）
   url: https://www.sklt.com.cn/
@@ -39,6 +31,14 @@
   
 - name: 东莞市公共资源交易网（地块出让查询-更新及时）
   url: https://list.dgzb.com.cn/dggt/HomePage/list
+  src: life
+
+- name: 东莞不动产登记中心
+  url: http://dgfc.dg.gov.cn/
+  src: life
+  
+- name: 东莞住房与城乡建设局（商品房现售备案查询）
+  url: http://zjj.dg.gov.cn/zjj/jsgc/spfxs/
   src: life
   
 - name: Markdown语法图文全面详解
