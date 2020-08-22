@@ -34,11 +34,11 @@
   url: https://list.dgzb.com.cn/dggt/HomePage/list
   src: Property
 
-- name: 东莞不动产登记中心(新建商品房 >> 销售楼盘:查询各套房备案价)
+- name: 东莞不动产登记中心(新建商品房 >> 销售楼盘:查询房产公示价)
   url: http://dgfc.dg.gov.cn/
   src: Property
   
-- name: 东莞住房与城乡建设局（商品房整栋现售备案查询）
+- name: 东莞住房与城乡建设局（商品房预售许可现售备案查询-详细）
   url: http://zjj.dg.gov.cn/zjj/jsgc/spfxs/
   src: Property
   
