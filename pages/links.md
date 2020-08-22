@@ -16,6 +16,14 @@ permalink: /links/
   {% endif %}
 {% endfor %}
 
+> 房地产
+
+{% for link in site.data.links %}
+  {% if link.src == 'Property' %}
+* [{{ link.name }}]({{ link.url }})
+  {% endif %}
+{% endfor %}
+
 > 友情链接
 
 {% for link in site.data.links %}
