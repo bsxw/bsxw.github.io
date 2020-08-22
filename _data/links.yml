@@ -8,38 +8,39 @@
   
 - name: 水库论坛（房产投资）
   url: https://www.sklt.com.cn/
-  src: life
+  src: Property
  
 - name: 安居客（房产）
   url: https://dg.anjuke.com/
-  src: life
+  src: Property
+  
 - name: 贝壳（房产）
   url: https://dg.ke.com/ershoufang/
-  src: life
+  src: Property
  
 - name: 房天下（房产）
   url: https://dg.esf.fang.com/
-  src: life
+  src: Property
   
 - name: 水木社区（北京房产论坛）
   url: https://exp.newsmth.net/section/5b634fdc9ecddf6042561c959176c077
-  src: life
+  src: Property
   
  - name: 东莞自然资源局（地块出让查询）
   url: http://land.dg.gov.cn/gkmlpt/index
-  src: life
+  src: Property
   
 - name: 东莞市公共资源交易网（地块出让查询-更新及时）
   url: https://list.dgzb.com.cn/dggt/HomePage/list
-  src: life
+  src: Property
 
 - name: 东莞不动产登记中心
   url: http://dgfc.dg.gov.cn/
-  src: life
+  src: Property
   
 - name: 东莞住房与城乡建设局（商品房现售备案查询）
   url: http://zjj.dg.gov.cn/zjj/jsgc/spfxs/
-  src: life
+  src: Property
   
 - name: Markdown语法图文全面详解
   url: https://www.jianshu.com/p/c0a2897ad4eb
