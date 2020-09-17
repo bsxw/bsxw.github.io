@@ -6,6 +6,7 @@ description: 机器人软件选项
 keywords: ABB 机器人 softmove 软伺服
 ---
 **必备条件:机器人开通 885-1 soft move功能选项**
+
 **同时以下功能失效**
 
 - 碰撞检测（613-1）
