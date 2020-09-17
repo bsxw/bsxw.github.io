@@ -5,7 +5,13 @@ categories: ABB
 description: 机器人软件选项
 keywords: ABB 机器人 softmove 软伺服
 ---
-**必备条件: 机器人开通 885-1 soft move功能选项**
+**必备条件:机器人开通 885-1 soft move功能选项**
+**同时以下功能失效**
+
+_ 碰撞检测（613-1）
+_ 力控（661-2）
+_ 区域输出（608-1）
+_ 输送带跟踪（606-1）
 
 stifness: 软方向弹力（多大百分比力返回原位置：机器人静止时位置或运动时的目标位置）。
 stiffnessnoSoftDir:非软方向弹力。
