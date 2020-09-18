@@ -52,7 +52,7 @@ keywords: ABB 机器人 softmove 软伺服
 - CSSDeactMoveL：关闭软伺服功能。
 - CSSForceOffTune:计算摩擦补偿力大小。
 - CSSForceOffSetAct:激活力补偿。
-- CSSForceOffSetDeact:关闭力补偿。
+- CSSForceOffSetDeact:关闭力补偿（CSSDeactMoveL指令执行后同样关闭摩擦补偿）。
 
 **案例程序**
 
