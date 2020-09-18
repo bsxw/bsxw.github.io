@@ -14,25 +14,25 @@ keywords: ABB 机器人 softmove 软伺服
 - 区域输出（608-1）
 - 输送带跟踪（606-1）
 
-stifness: 软方向弹力（多大百分比力返回原位置：机器人静止时位置或运动时的目标位置）。
-stiffnessnoSoftDir:非软方向弹力。
+**stifness: 软方向刚性（多大百分比力返回原位置：机器人静止时位置或运动时的目标位置）。**
+
+**stiffnessnoSoftDir:非软方向刚性。**
+
+**非软方向刚性必须大于软方向刚性。**
 
 **CSSAct指令不带\AllowMove**
 
-- stiffness_min:软方向最小弹力(范围：0-100；默认值：**0**)
-- stiffness_non_soft_dir_min:非软方向最小弹力(范围：0-100；默认值：**5**)
-- stiffness_max:软方向最大弹力(范围：0-100；默认值：**10**)
-- stiffness_non_soft_dir_max:非软方向最大弹力(范围：0-100；默认值：**20**)
-- *非软方向弹力必须大于软方向弹力*
-
+- stiffness_min:软方向最小刚性(范围：0-100；默认值：**0**)
+- stiffness_non_soft_dir_min:非软方向最小刚性(范围：0-100；默认值：**5**)
+- stiffness_max:软方向最大刚性(范围：0-100；默认值：**10**)
+- stiffness_non_soft_dir_max:非软方向最大刚性(范围：0-100；默认值：**20**)
 
 **CSSAct指令带\AllowMove**
 
-- stiffness_min_move:软方向最小弹力(范围：0-100；默认值：**2**)
-- stiffness_non_soft_dir_min_move:非软方向最小弹力(范围：0-100；默认值：**10**)
-- stiffness_max_move:软方向最大弹力(范围：0-100；默认值：**10**)
-- stiffness_non_soft_dir_max_move:非软方向最大弹力(范围：0-100；默认值：**20**)
-- *非软方向弹力必须大于软方向弹力*
+- stiffness_min_move:软方向最小刚性(范围：0-100；默认值：**2**)
+- stiffness_non_soft_dir_min_move:非软方向最小刚性(范围：0-100；默认值：**10**)
+- stiffness_max_move:软方向最大刚性(范围：0-100；默认值：**10**)
+- stiffness_non_soft_dir_max_move:非软方向最大刚性(范围：0-100；默认值：**20**)
 
 **Reframe:参考笛卡尔坐标(仅工件坐标CSS_REFRAME_WOBJ或工具坐标CSS_REFRAME-TOOL)。**
 
