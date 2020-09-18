@@ -33,7 +33,7 @@ stiffnessnoSoftDir:非软方向弹力。
 - stiffness_max_move:软方向最大弹力
 - stiffness_non_soft_dir_max_move:非软方向最大弹力
 
-**REeframe:参考笛卡尔坐标(仅工件坐标CSS_REFRAME_WOBJ或工具坐标CSS_REFRAME-TOOL)。**
+**Reframe:参考笛卡尔坐标(仅工件坐标CSS_REFRAME_WOBJ或工具坐标CSS_REFRAME-TOOL)。**
 
 **css_soft_dir共8个：CSS_X,CXX_Y,CSS_Z,CSS_XY,CSS_XZ,CSS_YZ,CSS-XYZ,CSS_XYRZ;**
 
