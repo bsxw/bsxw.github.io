@@ -23,8 +23,8 @@ stiffnessnoSoftDir:非软方向弹力。
 - stiffness_non_soft_dir_min:非软方向最小弹力(范围：0-100；默认值：**5**)
 - stiffness_max:软方向最大弹力(范围：0-100；默认值：**10**)
 - stiffness_non_soft_dir_max:非软方向最大弹力(范围：0-100；默认值：**20**)
+- *非软方向弹力必须大于软方向弹力*
 
-**非软方向弹力必须大于软方向弹力**
 
 **CSSAct指令带\AllowMove**
 
@@ -32,6 +32,7 @@ stiffnessnoSoftDir:非软方向弹力。
 - stiffness_non_soft_dir_min_move:非软方向最小弹力(范围：0-100；默认值：**10**)
 - stiffness_max_move:软方向最大弹力(范围：0-100；默认值：**10**)
 - stiffness_non_soft_dir_max_move:非软方向最大弹力(范围：0-100；默认值：**20**)
+- *非软方向弹力必须大于软方向弹力*
 
 **Reframe:参考笛卡尔坐标(仅工件坐标CSS_REFRAME_WOBJ或工具坐标CSS_REFRAME-TOOL)。**
 
