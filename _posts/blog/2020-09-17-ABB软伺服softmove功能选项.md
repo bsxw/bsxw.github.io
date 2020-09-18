@@ -54,6 +54,11 @@ keywords: ABB 机器人 softmove 软伺服
 - CSSForceOffSetAct:激活力补偿。
 - CSSForceOffSetDeact:关闭力补偿（CSSDeactMoveL指令执行后同样关闭摩擦补偿）。
 
+**软伺服、摩擦补偿注意事项**
+
+- stop:软伺服仍保持，摩擦补偿失效。
+- Montor Off:软伺服失效再次Motor ON会恢复。
+
 **案例程序**
 
 **主模块中声明**
