@@ -20,6 +20,12 @@ keywords: ABB 机器人 softmove 软伺服
 
 **非软方向刚性必须大于软方向刚性。**
 
+**实际刚性与实际阻尼值计算格式**
+- 例如软方向实际刚性：=stiffness_min + (stiffness/100)\*(stiffness_max - stiffness_min);
+- 按默认设置即：0+(stiffness/100)\*(10-0);
+- 例如软方向实际阻尼：=stiffness/(Stiffness to damping ratio);
+- 按默认设置即：stiffness/0.5;
+
 **CSSAct指令不带\AllowMove**
 
 - stiffness_min:软方向最小刚性(范围：0-100；默认值：**0**)
