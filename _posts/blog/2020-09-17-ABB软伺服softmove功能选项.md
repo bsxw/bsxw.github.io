@@ -131,8 +131,8 @@ PROC buffer_soft()                                                              
 ```
 FUNC robtarget lay_Soft(robtarget dest,num dist \num stiff \num shift)                //软放下函数
         VAR robtarget current;
-        VAR num stiff_def:=50;
-        VAR num shift_def:=0;
+        VAR num stiff_def:=0;
+        VAR num shift_def:=50;
         IF Present(stiff) stiff_def:=stiff;
         IF Present(shift) shift_def:=shift;
         //参考CSS_REFFRAME_TOOL(工具坐标)，软方向为CSS_XZ(XZ方向),软方向刚性值stiff_def，非软方向刚性值shift_def,AllowMove(运行运动)。
@@ -142,7 +142,8 @@ FUNC robtarget lay_Soft(robtarget dest,num dist \num stiff \num shift)          
         WaitTime 0.5;
         WaitRob \ZeroSpeed;
         current:=CRobT(\Tool:=Tool_user\WObj:=Workobject_user);
-        CSSDeactMoveL RelTool(current,0,0,0),v10,Tool_user\WObj:=Workobject_user;
+        CSSDeactMoveL RelTool(current,0,0.5,0),v10,Tool_user\WObj:=Workobject_user;
+        current:=CRobT(\Tool:=Tool_user\WObj:=Workobject_user);
         RETURN current;
     ENDFUNC
 ```
@@ -150,8 +151,8 @@ FUNC robtarget lay_Soft(robtarget dest,num dist \num stiff \num shift)          
 ```
     FUNC robtarget lift_Soft(robtarget dest,num dist \num stiff \num shift)          //软提起函数
         VAR robtarget current;
-        VAR num stiff_def:=50;
-        VAR num shift_def:=0;
+        VAR num stiff_def:=0;
+        VAR num shift_def:=50;
         IF Present(stiff) stiff_def:=stiff;
         IF Present(shift) shift_def:=shift;
         CSSAct\RefFrame:=CSS_REFFRAME_TOOL,CSS_XZ\StiffnessNonSoftDir:=shift_def\Stiffness:=stiff_def\AllowMove;
