@@ -42,7 +42,7 @@ keywords: ABB 机器人 softmove 软伺服
 
 **Reframe:参考笛卡尔坐标(仅工件坐标CSS_REFRAME_WOBJ或工具坐标CSS_REFRAME-TOOL)。**
 
-**css_soft_dir共8个：CSS_X,CXX_Y,CSS_Z,CSS_XY,CSS_XZ,CSS_YZ,CSS-XYZ,CSS_XYRZ;**
+**css_soft_dir共8个：CSS_X,CXX_Y,CSS_Z,CSS_XY,CSS_XZ,CSS_YZ,CSS_XYZ,CSS_XYRZ;**
 
 **css_offset_dir共6个：CSS_POSX,CSS_POSY,CSS_POSZ,CSS_NEGX,CSS_NEGY,CSS_NEGZ;**
 
@@ -57,7 +57,7 @@ keywords: ABB 机器人 softmove 软伺服
 **软伺服、摩擦补偿注意事项**
 
 - stop:软伺服仍保持，摩擦补偿失效。
-- Montor Off:软伺服失效再次Motor ON会恢复。
+- Montor Off:软伺服失效再次Motor ON会恢复(Automatic reactivation of css disabled 参数设置为YES时不会自动恢复)。
 
 **案例程序**
 
